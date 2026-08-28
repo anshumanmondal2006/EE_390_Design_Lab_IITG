@@ -14,7 +14,7 @@
 ## Overview
 
 This project demonstrates a practical embedded control pipeline where light sensing and PWM control are integrated with LWE-based cryptographic operations.  
-The system reads ambient lux values using a BH1750 sensor, performs encrypted control-side computation, and applies controlled LED output via Arduino.
+The system reads ambient lux values using a BH1750 sensor, performs encrypted control-side computation, and applies controlled LED output via Arduino. The white enclosure box has been fully 3D printed and designed using CAD tools.
 
 ## Project Highlights
 
